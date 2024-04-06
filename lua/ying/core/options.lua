@@ -38,3 +38,4 @@ opt.swapfile = false
 
 -- mapleader
 vim.g.mapleader = " "
+
